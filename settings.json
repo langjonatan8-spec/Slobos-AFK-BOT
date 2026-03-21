@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "langjonatan8.aternos.me:52030",
+    "ip": "langjonatan8.aternos.me",
     "port": 52030,
     "version": "1.21.1"
   },
